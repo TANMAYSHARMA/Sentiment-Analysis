@@ -24,6 +24,7 @@ bidirectional: Flag to determine uni-directional or bidirectional RNN
 typeOfPadding ('pack_padded', 'padded', 'no_padding'): which type of padding to use
 typeOfRNN ('simple', 'GRU', 'LSTM'): which type of RNN to use with attention
 typeOfAttention ('multiplicative', 'additive'): which type of attention to use
+
 Instructions for running a model:
 
 Set desired parameters in the model's shell script
