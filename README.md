@@ -4,10 +4,10 @@ Different variants of Recurrent Neural Networks (RNN), namely Vanilla RNN, Gated
 
 This project consists of the following files:
 
-train.py
-preprocessing.py
-Models: vRNN.py, GRU.py, LSTM.py, attn_RNN.py
-Shell scripts: run_vRNN.sh, run_GRU.sh, run_LSTM.sh, run_attnRNN.sh
+1.train.py
+2.preprocessing.py
+3.Models: vRNN.py, GRU.py, LSTM.py, attn_RNN.py
+4.Shell scripts: run_vRNN.sh, run_GRU.sh, run_LSTM.sh, run_attnRNN.sh
 Following are the parameters that can be set for the models:
 
 lr: learning rate
@@ -40,6 +40,7 @@ NOTE: Please take note that before executing additive attention model you need t
 
 
 Made in Collaboration with:
+Tanmay Sharma
 Ankit Sinha : https://github.com/ankit19sinha
 
 
