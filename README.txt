@@ -40,6 +40,6 @@ NOTE: Please take note that before executing additive attention model you need t
 
 
 Made in Collaboration with:
-Ankit Sinha : https://github.com/ankit19sinha/Hotel-Reviews-Sentiment-Analysis
+Ankit Sinha : https://github.com/ankit19sinha
 
 
